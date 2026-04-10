@@ -30,6 +30,6 @@ if quantidade > 0:
     print(f"o menor número foi {menor}")
     print(f"a média aritmética foi {media:.2f}")
 else:
-    print("Nenhum número foi informado")
+    print("Nenhum número digitado foi informado")
 
 print("="*50)
